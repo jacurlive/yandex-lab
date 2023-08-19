@@ -5,7 +5,7 @@
 
 
 ```
-mkdir project_name
+mkdir project_name // open project directory
 cd project_name
 git init 
 touch file_name
