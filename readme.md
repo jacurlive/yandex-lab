@@ -4,6 +4,8 @@
 ### this readme for write some knowledge about git for yandex practicum
 
 
+###### commands for push new project to GitHub
+
 ```
 mkdir project_name // open project directory
 cd project_name // go to project directory
